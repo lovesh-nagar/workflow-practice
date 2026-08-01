@@ -27,4 +27,4 @@ jobs:
       name:
         steps:
         -  name: "Deploy"
-            run: echo "deployed"
+           run: echo "deployed"
