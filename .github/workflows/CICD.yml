@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Runs on ubuntu"
-          run: echo "code is running"
+        run: echo "code is running"
       
   build:
     runs-on: ubuntu-latest
